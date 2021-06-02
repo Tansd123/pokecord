@@ -1,2 +1,3 @@
-# pokecord
-Jđj
+# Hyperium tech
+
+pokedex bot created by hyperium tech
